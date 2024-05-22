@@ -1,0 +1,13 @@
+html,body{
+    background-color: rgb(29, 29, 29);
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.header{
+    padding-bottom: 10px;
+}
